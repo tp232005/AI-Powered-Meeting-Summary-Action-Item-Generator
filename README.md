@@ -1,4 +1,4 @@
-🚀 AI-Powered Meeting Summary & Action Item Generator
+ AI-Powered Meeting Summarizer & Action Item Generator
 
 Meetings generate ideas. They also generate confusion.
 
